@@ -1,0 +1,17 @@
+{
+    "localConfig": {
+        "pathToFiles": ""        
+    },
+    "gitConfig": {
+        "repositoryURL":"",
+        "commitHash":"",
+        "gitRootDir": ""    
+    },
+    "ftpConfig": {
+        "host":"",
+        "username":"",
+        "password":"",
+        "port":21,
+        "debugMode": 1
+    }
+}
